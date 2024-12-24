@@ -1,1 +1,3 @@
 # ChestXrayAgeGenderPrediction
+
+Developed a deep learning model to predict age and gender from chest X-ray images using Python and TensorFlow. The project involved preprocessing chest X-ray datasets, including resizing, normalization, and data augmentation, to enhance model performance. A Convolutional Neural Network (CNN) architecture was designed to extract features, with regression for age prediction and classification for gender prediction. The model was trained using optimized loss functions and evaluated with metrics like Mean Absolute Error (MAE) and F1-Score. Results demonstrated high accuracy for gender classification and acceptable error rates for age prediction, with visualizations highlighting the model's focus on key image features.
